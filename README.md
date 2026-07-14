@@ -14,12 +14,7 @@
   <sub>Winston Churchill</sub>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yabtesfu&label=Profile%20Views&color=22d3ee&style=for-the-badge" alt="views"/>
-  <a href="https://github.com/yabtesfu?tab=followers">
-    <img src="https://img.shields.io/github/followers/yabtesfu?label=Followers&style=for-the-badge&color=6366f1&logo=github&logoColor=white" alt="followers"/>
-  </a>
-</div>
+
 
 <br>
 
