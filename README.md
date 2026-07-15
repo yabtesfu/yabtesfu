@@ -26,21 +26,6 @@
 ▹ &nbsp; Ask me about **Rust, Python, React, or systems design**.<br>
 ▹ &nbsp; Open to collaborate on **full-stack & systems projects**.
 
-<br>
-
-## ✦ Connect
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yabetse-tesfaye-bb4a0b2a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="mailto:yabtesfu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-</div>
-
-<br>
-
 ## ✦ Tech Stack
 
 <div align="center">
